@@ -1,0 +1,35 @@
+[
+    {
+        "threadID": "100008240838935",
+        "shortcuts": []
+    },
+    {
+        "threadID": "4356034107810319",
+        "shortcuts": [
+            {
+                "id": "KtzNRRTNwn",
+                "input": "hi",
+                "output": "hi chào cậu 👋"
+            }
+        ]
+    },
+    {
+        "threadID": "4404511999629782",
+        "shortcuts": [
+            {
+                "id": "GPkJwOKEdR",
+                "input": "tvm",
+                "output": "tvm gth+show ảnh(set biệt danh)"
+            },
+            {
+                "id": "vIPfqCcGjX",
+                "input": "hi",
+                "output": "Hi chào cậu 👋"
+            }
+        ]
+    },
+    {
+        "threadID": "4632252166797511",
+        "shortcuts": []
+    }
+]
